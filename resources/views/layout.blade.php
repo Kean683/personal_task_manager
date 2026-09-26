@@ -133,7 +133,7 @@
         <div class="header-inner">
             <a class="brand" href="{{ url('/') }}" aria-label="Task Manager home">
                 <span class="brand-mark">✓</span>
-                <span>TaskManager</span>
+                <span>Personal Task Manager</span>
             </a>
             <nav class="nav-links" aria-label="Primary navigation">
                 <a href="{{ url('/') }}">My tasks</a>

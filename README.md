@@ -1,30 +1,23 @@
 # Personal Task Manager
+> A straightforward and simple personal to do app powered by Laravel.
 
-A simple Personal Task Manager built with Laravel.
 
 # STUDENT INFORMATION
-- Project Code: WST21-PM-2026-SF
-- Student Name: Vera Cruz, Michael C.
-- Course & Year: 2nd year
-- Database Used: Laravel, Mariandb, SQl
+> Student Name: Marollano, Kean E.
+> Course & Year: BSIT 7, 2nd year
+> Database Used: Laravel, Mariandb, SQl
+
+
 # Features:
-- Add Task
-- View Tasks
-- Edit Task
-- Delete Task
-- Update Status
+> Add Task
+> View Tasks
+> Edit Task
+> Delete Task
+> Update Status
+> Set Due Date
+> Task Description
 
-## Features
-
-- Add Task
-- View Tasks
-- Edit Task
-- Delete Task
-- Update Task Status
-- Set Due Date
-- Task Description
-
-## Technologies
+# Technologies
 
 - Laravel
 - PHP
@@ -37,7 +30,6 @@ A simple Personal Task Manager built with Laravel.
 ## Project Structure
 
 The project follows the Laravel structure:
-
 Route → Controller → Model → Database → Blade
 
 ## Installation
@@ -45,4 +37,4 @@ Route → Controller → Model → Database → Blade
 Clone the repository:
 
 ```bash
-git clone https://github.com/Chaelwop/personal-task-manager.git# personal-task-manager
+git clone https://github.com/Kean683/personal_task_manager.git

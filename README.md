@@ -4,7 +4,7 @@ A straightforward and simple personal to-do app powered by Laravel.
 
 ## Student Information
 
-- **Project Code:** WST21-PM-2026-SF
+- **Subject Time:** TTH (10:30AM - 12:00PM)
 - **Student Name:** Marollano, Kean E.
 - **Course & Year:** BSIT 7, 2nd year
 - **Database Used:** SQLite (Laravel-compatible; can be swapped for MySQL/MariaDB via `.env`)

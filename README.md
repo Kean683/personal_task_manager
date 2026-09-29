@@ -35,6 +35,20 @@ The project follows the Laravel structure:
 
 Route → Controller → Model → Database → Blade
 
+## Output
+# Main Page
+<img width="1920" height="960" alt="image" src="https://github.com/user-attachments/assets/0146097d-0934-4acd-aed7-fa203a5f7ed1" />
+
+# Creating New Tasks
+<img width="1920" height="958" alt="image" src="https://github.com/user-attachments/assets/3136faec-7a9c-4181-a05f-f8321cad9922" />
+
+# Tasks in the Main Page
+<img width="1920" height="962" alt="image" src="https://github.com/user-attachments/assets/c1979cbf-b4ac-4cb1-8e38-9751f65e58ea" />
+
+# Completed Tasks
+<img width="1919" height="960" alt="image" src="https://github.com/user-attachments/assets/c2472ee8-1a8d-4c3f-9d6f-7c64384e43d7" />
+
+
 ## Installation
 
 Clone the repository:
